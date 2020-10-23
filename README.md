@@ -6,7 +6,8 @@ Bootstrap v4.5 使用練習
 1. Bootstrap (只使用 container、row、col)
 2. fontawesome(cdn)
 3. CSS Sprite
-4. Pair Programing
+4. RWD 設計
+5. Pair Programing
 
 練習時間: 約 2 日(code review 後修改)
 
